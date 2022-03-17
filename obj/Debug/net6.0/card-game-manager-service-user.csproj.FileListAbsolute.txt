@@ -1,0 +1,16 @@
+/mnt/data/Documents/Projects/card-game-manager-service-user/bin/Debug/net6.0/appsettings.Development.json
+/mnt/data/Documents/Projects/card-game-manager-service-user/bin/Debug/net6.0/appsettings.json
+/mnt/data/Documents/Projects/card-game-manager-service-user/bin/Debug/net6.0/card-game-manager-service-user
+/mnt/data/Documents/Projects/card-game-manager-service-user/bin/Debug/net6.0/card-game-manager-service-user.dll
+/mnt/data/Documents/Projects/card-game-manager-service-user/bin/Debug/net6.0/card-game-manager-service-user.pdb
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/card-game-manager-service-user.csproj.AssemblyReference.cache
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/card-game-manager-service-user.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/card-game-manager-service-user.AssemblyInfoInputs.cache
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/card-game-manager-service-user.AssemblyInfo.cs
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/card-game-manager-service-user.csproj.CoreCompileInputs.cache
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/card-game-manager-service-user.MvcApplicationPartsAssemblyInfo.cs
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/card-game-manager-service-user.MvcApplicationPartsAssemblyInfo.cache
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/scopedcss/bundle/card-game-manager-service-user.styles.css
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/card-game-manager-service-user.dll
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/ref/card-game-manager-service-user.dll
+/mnt/data/Documents/Projects/card-game-manager-service-user/obj/Debug/net6.0/card-game-manager-service-user.pdb
