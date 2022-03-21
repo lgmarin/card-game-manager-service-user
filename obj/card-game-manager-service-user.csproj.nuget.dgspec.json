@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/luiz/Documentos/Projects/card-game-manager-service-user/card-game-manager-service-user.csproj": {}
+    "/mnt/data/Documents/Projects/card-game-manager-service-user/card-game-manager-service-user.csproj": {}
   },
   "projects": {
-    "/home/luiz/Documentos/Projects/card-game-manager-service-user/card-game-manager-service-user.csproj": {
+    "/mnt/data/Documents/Projects/card-game-manager-service-user/card-game-manager-service-user.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/luiz/Documentos/Projects/card-game-manager-service-user/card-game-manager-service-user.csproj",
+        "projectUniqueName": "/mnt/data/Documents/Projects/card-game-manager-service-user/card-game-manager-service-user.csproj",
         "projectName": "card-game-manager-service-user",
-        "projectPath": "/home/luiz/Documentos/Projects/card-game-manager-service-user/card-game-manager-service-user.csproj",
+        "projectPath": "/mnt/data/Documents/Projects/card-game-manager-service-user/card-game-manager-service-user.csproj",
         "packagesPath": "/home/luiz/.nuget/packages/",
-        "outputPath": "/home/luiz/Documentos/Projects/card-game-manager-service-user/obj/",
+        "outputPath": "/mnt/data/Documents/Projects/card-game-manager-service-user/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/luiz/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
